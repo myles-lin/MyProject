@@ -16,3 +16,11 @@
 04_Jieba-practice.py
 
 > import jieba 分析斷詞數量
+
+05_SearchPTTboards.py
+
+> import request, BeautifulSoup，搜尋PTT熱門看板 人數超過1000人，列出看板名稱以及當下人數。
+
+06_SearchPTTstock.py
+
+> import request, BeautifulSoup，取得Stock看板分數50分以上的文章，印出分數、文章名稱及文章超連結。
