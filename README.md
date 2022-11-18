@@ -1,7 +1,7 @@
 
 01_Selenium-practice.py
 
-> 使用 chromedrive，import Selenuum 自動開啟 Dcard 網頁，搜尋“攝影“版，點擊後自動向下移動網頁。
+> from selenium import webdriver (chromedrive) 自動開啟 Dcard 網頁，搜尋“攝影“版，點擊後自動向下移動網頁。
 
 02_GetDardPhoto.py
 
